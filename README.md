@@ -1,0 +1,4 @@
+- 👋 Hi
+- 👀 AI Enthusiast
+- 🌱 I’m currently learning LLM
+- 📫 Found me there - https://dipchakraborty.com
